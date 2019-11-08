@@ -74,11 +74,10 @@ Platform(s)
 ---------------------------------------
 
 Quick Launch Analysis
-   .. Note::
+	    
+.. |rmta-2.6.1| image:: https://de.cyverse.org/Powered-By-CyVerse-blue.svg
+.. _rmta-2.6.1: https://de.cyverse.org/de/?type=quick-launch&quick-launch-id=21524cbf-6d26-4a62-a8e6-bef731938255&app-id=ed43b8be-daf5-11e9-9393-008cfa5ae621
 
-	    Click this button to launch the RMTA v2.6.1 app <a href="https://de.cyverse.org/de/?type=quick-launch&quick-launch-id=21524cbf-6d26-4a62-a8e6-bef731938255&app-id=ed43b8be-daf5-11e9-9393-008cfa5ae621" target="_blank"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a>
-	    
-	    
 1. Login to the |discovery_enviornment|.
 
 2. Under “Analysis Name” leave the defaults or make any desired notes.
@@ -108,10 +107,9 @@ navigate to that analysis folder in your data store.
 ---------------------------------------
 
 Quick Launch Button
-   .. Note::
 
-	    Click this button to launch Rstudio-DESeq2 VICE app <a href="https://de.cyverse.org/de/?type=quick-launch&quick-launch-id=1444198d-068f-4cf1-a3d1-df30e6d678f2&app-id=58f9a86c-2a74-11e9-b289-008cfa5ae621" target="_blank"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a>
-	    
+.. |RMTA-deseq2| image:: https://de.cyverse.org/Powered-By-CyVerse-blue.svg
+.. _RMTA-deseq2: https://de.cyverse.org/de/?type=quick-launch&quick-launch-id=1444198d-068f-4cf1-a3d1-df30e6d678f2&app-id=58f9a86c-2a74-11e9-b289-008cfa5ae621
 	    
 1. CLick on "Apps" tab in the Discovery Enviornment and search for "Rstudio-DESeq2".
 
